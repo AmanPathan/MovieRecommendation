@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1a44fcc.css",
+    "main.js": "/static/js/main.1b1255da.js",
+    "static/media/bg3.jpg": "/static/media/bg3.bbb1867925326c3cf109.jpg",
+    "static/media/cineflix.png": "/static/media/cineflix.89d6ff08ff7f4f167297.png",
+    "index.html": "/index.html",
+    "main.e1a44fcc.css.map": "/static/css/main.e1a44fcc.css.map",
+    "main.1b1255da.js.map": "/static/js/main.1b1255da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1a44fcc.css",
+    "static/js/main.1b1255da.js"
+  ]
+}
